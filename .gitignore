@@ -1,0 +1,6 @@
+# Ignore development-specific files
+watcher.js
+bs-config.js
+node_modules/
+*.log
+ENV=production
